@@ -1,0 +1,17 @@
+table,
+th,
+td {
+    border: 2px solid;
+}
+
+th {
+    color: rgb(0, 0, 0);
+}
+
+tr:nth-child(even) {
+    background-color: #3d3d3d33;
+}
+
+body {
+    background-color: #e4e8e8;
+}
